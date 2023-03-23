@@ -2,7 +2,7 @@
 
 <hr/>
 <h3 align="center">
-To easily convert stickers to GIFs you can use Telegram Bot</br></br>👉 https://t.me/tgstogifbot 👈
+To easily convert stickers to GIFs you can use Telegram Bot：https://t.me/tgstogifbot 👈
 </h3>
 <hr/>
 
